@@ -273,4 +273,3 @@ A atividade permitiu relacionar os conceitos de gramática formal com uma lingua
 A partir da gramática oficial da linguagem Java, foram selecionadas produções relacionadas às estruturas `for`, `if`, blocos e expressões. Durante a derivação, os símbolos não terminais foram substituídos sucessivamente pelas produções correspondentes até chegar à estrutura concreta do código.
 
 Dessa forma, foi possível observar como uma gramática formal pode representar a sintaxe de uma linguagem de programação e como um código válido pode ser obtido por meio da aplicação sucessiva de suas regras de produção.
-
